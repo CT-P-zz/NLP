@@ -9,10 +9,10 @@ Text classification with:
 
 ### Prerequisites
 
-To run the notebooks just create the environment from the environment.yml file
+To run the notebooks just create the environment from the req.txt file
 
 ```
->conda env create -f environment.yml
+>conda env create -f req.txt
 ```
 (The first line of the yml file sets the new environment’s name)
 
