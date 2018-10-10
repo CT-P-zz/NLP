@@ -23,12 +23,14 @@ To run the notebooks just create the environment from the environment.yml file
 
 ### Dependencies
 
-python 3.5
-keras (backend: tensorflow )
+- python 3.5
+- keras (backend: tensorflow )
 
 ### GloVe weights
-https://nlp.stanford.edu/projects/glove/
+- https://nlp.stanford.edu/projects/glove/
 
-filename: glove.6B.zip/glove.6B.100d.txt
+- filename: glove.6B.zip/glove.6B.100d.txt
+
+### Table contents
 
 ![alt text](https://github.com/CT-P/NLP/blob/master/fig1.JPG)
