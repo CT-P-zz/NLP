@@ -28,4 +28,7 @@ keras (backend: tensorflow )
 
 ### GloVe weights
 https://nlp.stanford.edu/projects/glove/
+
 filename: glove.6B.zip/glove.6B.100d.txt
+
+![alt text](https://github.com/CT-P/NLP/blob/master/fig1.JPG)
